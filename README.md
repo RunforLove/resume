@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 个人简历
+  Runforlove
 
-You can use the [editor on GitHub](https://github.com/RunforLove/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 教育经历
+  北京大学, 软件工程, 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 工作经历
+2016-2017 阿里巴巴中间件，软件工程师
 
-### Markdown
+### 项目经历
+2016-2017 意锐 动支付服务商(SP)平台.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 开源项目
+https://github.com/conke/witos 
+https://github.com/conke/lablin 
+https://github.com/debug-live/ladder
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RunforLove/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 专业技能
+计算机语言 能熟练或不熟练地使用几乎所有主流计算机语言及相关开发工具 Agile/DevOps Scrum/XP/TDD 等模式、CI/CD、Docker/Kubernetes，等
+服务器 微服务、SOA、MQ、Cache、常见中间件，等
+数据库 MySQL/PostgreSQL/MongoDB, NoSQL, Cluster/Replication, CDM/LDM/PDM 大数据 Hadoop, Spark, Yarn, HDFS, M/R
+硬件 ARM 体系结构，常见 I/O
+底层软件 Linux 内核、设备驱动、UEFI/ACPI/Bootloader，等(本人是开源物联网操作系统 WitOS 的创建者。) Web/App H5、常见前端框架、iOS、Android
+软件测试 各种脚本、常见测试工具、测试技巧
